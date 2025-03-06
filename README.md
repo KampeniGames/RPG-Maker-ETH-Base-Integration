@@ -94,3 +94,19 @@ The plugin outputs debugging logs in the browser’s console. This helps you tra
 For example, to view the balance stored in a game variable, you can use a script call in an event:
 ```js
 console.log("Token Balance:", $gameVariables.value(1));
+
+And to display the token balance in a message with variable substitution, use RPG Maker’s escape code:
+
+csharp
+Copy
+Your token balance is \V[1] tokens.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality, fix bugs, or improve documentation.
+
+Acknowledgements
+CoinbaseWalletSDK
+Web3.js
+The RPG Maker community for continuous inspiration in integrating modern technologies into game development.
