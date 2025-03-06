@@ -93,6 +93,8 @@ The plugin outputs debugging logs in the browser’s console. This helps you tra
 
 For example, to view the balance stored in a game variable, you can use a script call in an event:
 
+<pre> ```javascript // Your JavaScript code here console.log("Hello, world!"); ``` </pre>
+
 ### License
 This project is licensed under the MIT License with some conditions. See the LICENSE file for details.
 
