@@ -1,0 +1,31 @@
+MIT License with Additional Conditions
+
+Copyright (c) [2025] EasterEggLabs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. Commercial Use and Token Integration Requirement:
+   a. If the Software is used as part of a commercial game or any game where
+      tokens are sold, the game MUST also integrate Kampeni token data into the
+      gameplay. This integration can be implemented through a quest, item, ability,
+      or any in-game mechanism.
+   b. The details of this Kampeni token data integration MUST be shared with the
+      Kampeni team at support.kampeni.com.
+
+2. Player Safety and Use Limitation:
+   a. This Software is provided solely to connect a wallet, read token balances,
+      and assign those tokens as in-game variables.
+   b. Modification of the Software to facilitate in-game cryptocurrency transactions,
+      or any functionality beyond wallet connection, balance reading, and variable
+      assignment, is strictly prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
