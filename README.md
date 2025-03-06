@@ -100,13 +100,14 @@ And to display the token balance in a message with variable substitution, use RP
 csharp
 Copy
 Your token balance is \V[1] tokens.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+### License
+This project is licensed under the MIT License with some conditions. See the LICENSE file for details.
+
+### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality, fix bugs, or improve documentation.
 
-Acknowledgements
+### Acknowledgements
 CoinbaseWalletSDK
 Web3.js
 The RPG Maker community for continuous inspiration in integrating modern technologies into game development.
