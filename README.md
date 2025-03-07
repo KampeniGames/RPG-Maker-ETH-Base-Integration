@@ -16,10 +16,10 @@ The Coinbase Wallet Plugin for RPG Maker MZ allows you to integrate blockchain f
   - **Base Network:**  
     Use `CheckBaseBalance` and `ShowBaseBalance` for tokens on the Base network.
 
-- **In-Game Transactions:**  
+- **BETA In-Game Transactions:**  
   Send transactions for purchasing items using the `PurchaseItem` command.
 
-- **NFT Transfers:**  
+- **BETA NFT Transfers:**  
   Transfer NFTs from the player's wallet with the `SendNFT` command.
 
 - **Enhanced Debugging:**  
@@ -96,7 +96,7 @@ For example, to view the balance stored in a game variable, you can use a script
 <pre> Your token balance is \V[1] tokens.</pre>
 
 ### License
-This project is licensed under the MIT License with some conditions. See the LICENSE file for details.
+This project is licensed under the MIT License with some conditions (projects must include a Kampeni Token integration and no additional wallet interactions beyond those provided). See the LICENSE file for details.
 
 ### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality, fix bugs, or improve documentation.
